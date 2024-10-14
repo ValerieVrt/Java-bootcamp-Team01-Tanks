@@ -1,0 +1,6 @@
+edu/school21/clientTanks/app/Main.class
+edu/school21/clientTanks/client/Client.class
+edu/school21/clientTanks/client/WriteThread.class
+module-info.class
+edu/school21/clientTanks/controller/Controller.class
+edu/school21/clientTanks/client/ReadThread.class
